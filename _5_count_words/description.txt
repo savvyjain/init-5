@@ -1,0 +1,18 @@
+
+Challenge 5
+
+Write a program that takes
+
+Input
+
+A file as an argument
+
+
+Output
+
+Counts the total number of lines.
+
+
+Bonus
+
+For bonus, also count the number of words in the file.
